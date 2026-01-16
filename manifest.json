@@ -1,0 +1,17 @@
+{
+  "name": "極簡記帳本 PWA",
+  "short_name": "記帳",
+  "description": "一個簡單好用的 PWA 記帳程式",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2344/2344132.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
